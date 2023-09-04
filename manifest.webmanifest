@@ -1,0 +1,12 @@
+{
+  "name": "Mr. Umbrella",
+  "short_name": "Mr. Umbrella",
+  "id": "com.mr.Umbrella",
+  "description": "",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
